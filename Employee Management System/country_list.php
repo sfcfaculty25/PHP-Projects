@@ -237,5 +237,5 @@
 <option value="Wake Island">Wake Island</option>
 <option value="Yemen">Yemen</option>
 <option value="Zaire">Zaire</option>
-<option value="Zambia">Zambia</option>
+<option value="Zambia">Zambiaa</option>
 <option value="Zimbabwe">Zimbabwe</option>
